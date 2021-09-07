@@ -1,0 +1,5 @@
+db
+dump
+infra
+node_modules
+*.json
