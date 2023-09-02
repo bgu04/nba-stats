@@ -12,4 +12,4 @@ rapid-api-nba:
 
 server:
   - This is a simple flask server serves NBA data to UI with Restful APIs. 
-  - The data are stored in MongoDB and APIs return JSON formatted data.
+  - The data are stored in MongoDB and APIs return data in JSON format.
